@@ -1,6 +1,6 @@
 <h1 align="center">BanMod for Among Us</h1>
 
-<img align="left" alt="Cover" src="Resources/newimage.png" width="50%" height="300" />
+<img align="left" alt="Cover" src="/newimage.png" width="50%" height="300" />
 <p align="right">
 
 > ### About This Mod
