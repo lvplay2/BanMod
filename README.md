@@ -71,5 +71,6 @@ The mod was created by recovering and modifying parts of code from other mods, i
 ### ⚙️ [TOH](https://github.com/tukasa0001/TownOfHost)
 ### ⚙️ [TOHE](https://github.com/KARPED1EM/TownOfHostEdited)
 ### ⚙️ [EHR](https://github.com/Gurge44/EndlessHostRoles/tree/main)
+### ⚙️ [BANMOD](https://github.com/GianniBart/BanMod_Min/tree/main)
 ---
 
