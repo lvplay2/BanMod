@@ -1,3 +1,5 @@
+> This fork is only intended to host the BanMod source code. If you just want the releases, go to [the original repository](https://github.com/GianniBart/BanMod).
+
 <h1 align="center">BanMod for Among Us</h1>
 
 <img align="left" alt="Cover" src="/newimage.png" width="50%" height="300" />
